@@ -1,0 +1,13 @@
+{
+    "nodered": {
+      "version": {
+        "current": "3.2.1",
+        "installed": "3.1.0",
+        "installdate": "2022-12-20",
+        "note": "Kein Upgrade erforderlich",
+        "releaseNotes": "https://example.com/release-notes/app2",
+        "availableSince": "2022-12-18",
+        "skipCurrent": true
+      }
+    }
+  }
