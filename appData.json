@@ -2,9 +2,5 @@
   {
     "name": "HA Core",
     "url": "https://dodoooh.github.io/ha-version/apps/ha-core.json"
-  },
-  {
-    "name": "App 2",
-    "url": "https://dodoooh.github.io/ha-version/apps/app2.json"
   }
 ]
