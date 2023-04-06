@@ -1,0 +1,10 @@
+{
+  "version": {
+    "installed": "2023.3.6",
+    "current": "2023.4.0",
+    "installdate": "2023-04-01",
+    "availableSince": "2023-04-05",
+    "note": "Install First HACS updates",
+    "releaseNotes": "https://www.home-assistant.io/blog/2023/04/05/release-20234/"
+  }
+}
