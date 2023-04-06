@@ -1,0 +1,10 @@
+{
+  "version": {
+    "installed": "2023.04.0",
+    "current": "2023.04.0",
+    "installdate": "2023-04-06",
+    "availableSince": "2023-04-05",
+    "note": "Install First HACS updates",
+    "releaseNotes": "https://github.com/home-assistant/supervisor/releases/tag/2023.04.0"
+  }
+}
