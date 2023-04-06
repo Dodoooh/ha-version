@@ -2,5 +2,9 @@
   {
     "name": "HA Core",
     "url": "https://dodoooh.github.io/ha-version/apps/ha-core.json"
+  },
+  {
+    "name": "HA Supervisor",
+    "url": "https://dodoooh.github.io/ha-version/apps/ha-super.json"
   }
 ]
