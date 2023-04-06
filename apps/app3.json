@@ -1,0 +1,10 @@
+{
+  "version": {
+    "installed": "2.0.0",
+    "current": "2.0.0",
+    "installdate": "2022-03-20",
+    "availableSince": "2023-03-25",
+    "note": "New features added",
+    "releaseNotes": "https://example.com/app2/release-notes/2.1.0"
+  }
+}

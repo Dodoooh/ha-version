@@ -2,14 +2,35 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
   <title>Apps Info</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-DmY9qgAawCjV7Cf+qRxSnJTCrL9aUPN4Jw6Xkfv6VSAcbmBPr5f5dQTaXhMh5Q5f" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Apps Info</h1>
-  <div id="app-container"></div>
-
-  <script src="script.js"></script>
+  <header class="bg-dark">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-sm-6">
+          <h1 class="text-white">Apps Info</h1>
+        </div>
+        <div class="col-sm-6">
+          <div class="versions text-right">
+            <div class="version-label text-white">Installed / Current:</div>
+            <div class="version-numbers"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main class="py-5">
+    <div class="container">
+      <div class="row" id="app-container">
+      </div>
+    </div>
+  </main>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  <script src="main.js"></script>
 </body>
 </html>
