@@ -1,18 +1,18 @@
 [
   {
     "name": "App 1",
-    "url": "/apps/app1.json"
+    "url": "https://dodoooh.github.io/ha-version/apps/app1.json"
   },
   {
     "name": "App 2",
-    "url": "/apps/app2.json"
+    "url": "https://dodoooh.github.io/ha-version/apps/app2.json"
   },
   {
     "name": "App 3",
-    "url": "/apps/app3.json"
+    "url": "https://dodoooh.github.io/ha-version/apps/app3.json"
   },
   {
     "name": "App 4",
-    "url": "/apps/app4.json"
+    "url": "https://dodoooh.github.io/ha-version/apps/app4.json"
   }
 ]
